@@ -64,7 +64,7 @@ Trendify-Sales-Analysis/
 ## 📊 Key Insights
 1. 📈 **Monthly Trend:** Sales peak during festive/holiday months.  
 2. 🛍 **Top Products:** A handful of SKUs drive a majority of revenue.  
-3. 🗂 **Categories:** Electronics & Apparel dominate overall sales.  
+3. 🗂 **Categories:** Clothing & Shoes dominate overall sales.  
 4. 💳 **Payments:** Digital payments > COD, showing customer trust in online transactions.  
 
 ---
